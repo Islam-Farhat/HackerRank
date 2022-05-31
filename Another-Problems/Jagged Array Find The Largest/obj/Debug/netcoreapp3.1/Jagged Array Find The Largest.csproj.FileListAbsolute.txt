@@ -1,0 +1,13 @@
+E:\Data_Structure\Another-Problems\Jagged Array Find The Largest\bin\Debug\netcoreapp3.1\Jagged Array Find The Largest.exe
+E:\Data_Structure\Another-Problems\Jagged Array Find The Largest\bin\Debug\netcoreapp3.1\Jagged Array Find The Largest.deps.json
+E:\Data_Structure\Another-Problems\Jagged Array Find The Largest\bin\Debug\netcoreapp3.1\Jagged Array Find The Largest.runtimeconfig.json
+E:\Data_Structure\Another-Problems\Jagged Array Find The Largest\bin\Debug\netcoreapp3.1\Jagged Array Find The Largest.runtimeconfig.dev.json
+E:\Data_Structure\Another-Problems\Jagged Array Find The Largest\bin\Debug\netcoreapp3.1\Jagged Array Find The Largest.dll
+E:\Data_Structure\Another-Problems\Jagged Array Find The Largest\bin\Debug\netcoreapp3.1\Jagged Array Find The Largest.pdb
+E:\Data_Structure\Another-Problems\Jagged Array Find The Largest\obj\Debug\netcoreapp3.1\Jagged Array Find The Largest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data_Structure\Another-Problems\Jagged Array Find The Largest\obj\Debug\netcoreapp3.1\Jagged Array Find The Largest.AssemblyInfoInputs.cache
+E:\Data_Structure\Another-Problems\Jagged Array Find The Largest\obj\Debug\netcoreapp3.1\Jagged Array Find The Largest.AssemblyInfo.cs
+E:\Data_Structure\Another-Problems\Jagged Array Find The Largest\obj\Debug\netcoreapp3.1\Jagged Array Find The Largest.csproj.CoreCompileInputs.cache
+E:\Data_Structure\Another-Problems\Jagged Array Find The Largest\obj\Debug\netcoreapp3.1\Jagged Array Find The Largest.dll
+E:\Data_Structure\Another-Problems\Jagged Array Find The Largest\obj\Debug\netcoreapp3.1\Jagged Array Find The Largest.pdb
+E:\Data_Structure\Another-Problems\Jagged Array Find The Largest\obj\Debug\netcoreapp3.1\Jagged Array Find The Largest.genruntimeconfig.cache

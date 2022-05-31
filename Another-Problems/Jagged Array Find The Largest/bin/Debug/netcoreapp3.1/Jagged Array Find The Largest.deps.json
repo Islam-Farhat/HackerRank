@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Jagged Array Find The Largest/1.0.0": {
+        "runtime": {
+          "Jagged Array Find The Largest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jagged Array Find The Largest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

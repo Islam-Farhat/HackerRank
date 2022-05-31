@@ -1,0 +1,13 @@
+E:\Data_Structure\Another-Problems\Binary search\bin\Debug\netcoreapp3.1\Binary search.exe
+E:\Data_Structure\Another-Problems\Binary search\bin\Debug\netcoreapp3.1\Binary search.deps.json
+E:\Data_Structure\Another-Problems\Binary search\bin\Debug\netcoreapp3.1\Binary search.runtimeconfig.json
+E:\Data_Structure\Another-Problems\Binary search\bin\Debug\netcoreapp3.1\Binary search.runtimeconfig.dev.json
+E:\Data_Structure\Another-Problems\Binary search\bin\Debug\netcoreapp3.1\Binary search.dll
+E:\Data_Structure\Another-Problems\Binary search\bin\Debug\netcoreapp3.1\Binary search.pdb
+E:\Data_Structure\Another-Problems\Binary search\obj\Debug\netcoreapp3.1\Binary search.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data_Structure\Another-Problems\Binary search\obj\Debug\netcoreapp3.1\Binary search.AssemblyInfoInputs.cache
+E:\Data_Structure\Another-Problems\Binary search\obj\Debug\netcoreapp3.1\Binary search.AssemblyInfo.cs
+E:\Data_Structure\Another-Problems\Binary search\obj\Debug\netcoreapp3.1\Binary search.csproj.CoreCompileInputs.cache
+E:\Data_Structure\Another-Problems\Binary search\obj\Debug\netcoreapp3.1\Binary search.dll
+E:\Data_Structure\Another-Problems\Binary search\obj\Debug\netcoreapp3.1\Binary search.pdb
+E:\Data_Structure\Another-Problems\Binary search\obj\Debug\netcoreapp3.1\Binary search.genruntimeconfig.cache

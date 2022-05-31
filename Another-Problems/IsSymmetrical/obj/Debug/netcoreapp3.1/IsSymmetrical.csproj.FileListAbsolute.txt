@@ -1,0 +1,14 @@
+E:\Data_Structure\Another-Problems\IsSymmetrical\bin\Debug\netcoreapp3.1\IsSymmetrical.exe
+E:\Data_Structure\Another-Problems\IsSymmetrical\bin\Debug\netcoreapp3.1\IsSymmetrical.deps.json
+E:\Data_Structure\Another-Problems\IsSymmetrical\bin\Debug\netcoreapp3.1\IsSymmetrical.runtimeconfig.json
+E:\Data_Structure\Another-Problems\IsSymmetrical\bin\Debug\netcoreapp3.1\IsSymmetrical.runtimeconfig.dev.json
+E:\Data_Structure\Another-Problems\IsSymmetrical\bin\Debug\netcoreapp3.1\IsSymmetrical.dll
+E:\Data_Structure\Another-Problems\IsSymmetrical\bin\Debug\netcoreapp3.1\IsSymmetrical.pdb
+E:\Data_Structure\Another-Problems\IsSymmetrical\obj\Debug\netcoreapp3.1\IsSymmetrical.csproj.AssemblyReference.cache
+E:\Data_Structure\Another-Problems\IsSymmetrical\obj\Debug\netcoreapp3.1\IsSymmetrical.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data_Structure\Another-Problems\IsSymmetrical\obj\Debug\netcoreapp3.1\IsSymmetrical.AssemblyInfoInputs.cache
+E:\Data_Structure\Another-Problems\IsSymmetrical\obj\Debug\netcoreapp3.1\IsSymmetrical.AssemblyInfo.cs
+E:\Data_Structure\Another-Problems\IsSymmetrical\obj\Debug\netcoreapp3.1\IsSymmetrical.csproj.CoreCompileInputs.cache
+E:\Data_Structure\Another-Problems\IsSymmetrical\obj\Debug\netcoreapp3.1\IsSymmetrical.dll
+E:\Data_Structure\Another-Problems\IsSymmetrical\obj\Debug\netcoreapp3.1\IsSymmetrical.pdb
+E:\Data_Structure\Another-Problems\IsSymmetrical\obj\Debug\netcoreapp3.1\IsSymmetrical.genruntimeconfig.cache

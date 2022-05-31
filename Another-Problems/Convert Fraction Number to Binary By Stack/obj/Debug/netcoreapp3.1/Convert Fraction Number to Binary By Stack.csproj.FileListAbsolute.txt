@@ -1,0 +1,14 @@
+E:\Data_Structure\Another-Problems\Convert Fraction Number to Binary By Stack\bin\Debug\netcoreapp3.1\Convert Fraction Number to Binary By Stack.exe
+E:\Data_Structure\Another-Problems\Convert Fraction Number to Binary By Stack\bin\Debug\netcoreapp3.1\Convert Fraction Number to Binary By Stack.deps.json
+E:\Data_Structure\Another-Problems\Convert Fraction Number to Binary By Stack\bin\Debug\netcoreapp3.1\Convert Fraction Number to Binary By Stack.runtimeconfig.json
+E:\Data_Structure\Another-Problems\Convert Fraction Number to Binary By Stack\bin\Debug\netcoreapp3.1\Convert Fraction Number to Binary By Stack.runtimeconfig.dev.json
+E:\Data_Structure\Another-Problems\Convert Fraction Number to Binary By Stack\bin\Debug\netcoreapp3.1\Convert Fraction Number to Binary By Stack.dll
+E:\Data_Structure\Another-Problems\Convert Fraction Number to Binary By Stack\bin\Debug\netcoreapp3.1\Convert Fraction Number to Binary By Stack.pdb
+E:\Data_Structure\Another-Problems\Convert Fraction Number to Binary By Stack\obj\Debug\netcoreapp3.1\Convert Fraction Number to Binary By Stack.csproj.AssemblyReference.cache
+E:\Data_Structure\Another-Problems\Convert Fraction Number to Binary By Stack\obj\Debug\netcoreapp3.1\Convert Fraction Number to Binary By Stack.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data_Structure\Another-Problems\Convert Fraction Number to Binary By Stack\obj\Debug\netcoreapp3.1\Convert Fraction Number to Binary By Stack.AssemblyInfoInputs.cache
+E:\Data_Structure\Another-Problems\Convert Fraction Number to Binary By Stack\obj\Debug\netcoreapp3.1\Convert Fraction Number to Binary By Stack.AssemblyInfo.cs
+E:\Data_Structure\Another-Problems\Convert Fraction Number to Binary By Stack\obj\Debug\netcoreapp3.1\Convert Fraction Number to Binary By Stack.csproj.CoreCompileInputs.cache
+E:\Data_Structure\Another-Problems\Convert Fraction Number to Binary By Stack\obj\Debug\netcoreapp3.1\Convert Fraction Number to Binary By Stack.dll
+E:\Data_Structure\Another-Problems\Convert Fraction Number to Binary By Stack\obj\Debug\netcoreapp3.1\Convert Fraction Number to Binary By Stack.pdb
+E:\Data_Structure\Another-Problems\Convert Fraction Number to Binary By Stack\obj\Debug\netcoreapp3.1\Convert Fraction Number to Binary By Stack.genruntimeconfig.cache

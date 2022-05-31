@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Convert Fraction Number to Binary Stack Like(14.56)/1.0.0": {
+        "runtime": {
+          "Convert Fraction Number to Binary Stack Like(14.56).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Convert Fraction Number to Binary Stack Like(14.56)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

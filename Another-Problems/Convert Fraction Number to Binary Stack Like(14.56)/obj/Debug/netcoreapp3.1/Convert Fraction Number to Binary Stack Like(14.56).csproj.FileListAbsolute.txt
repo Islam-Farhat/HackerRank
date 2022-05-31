@@ -1,0 +1,13 @@
+E:\Data_Structure\Another-Problems\Convert Fraction Number to Binary Stack Like(14.56)\bin\Debug\netcoreapp3.1\Convert Fraction Number to Binary Stack Like(14.56).exe
+E:\Data_Structure\Another-Problems\Convert Fraction Number to Binary Stack Like(14.56)\bin\Debug\netcoreapp3.1\Convert Fraction Number to Binary Stack Like(14.56).deps.json
+E:\Data_Structure\Another-Problems\Convert Fraction Number to Binary Stack Like(14.56)\bin\Debug\netcoreapp3.1\Convert Fraction Number to Binary Stack Like(14.56).runtimeconfig.json
+E:\Data_Structure\Another-Problems\Convert Fraction Number to Binary Stack Like(14.56)\bin\Debug\netcoreapp3.1\Convert Fraction Number to Binary Stack Like(14.56).runtimeconfig.dev.json
+E:\Data_Structure\Another-Problems\Convert Fraction Number to Binary Stack Like(14.56)\bin\Debug\netcoreapp3.1\Convert Fraction Number to Binary Stack Like(14.56).dll
+E:\Data_Structure\Another-Problems\Convert Fraction Number to Binary Stack Like(14.56)\bin\Debug\netcoreapp3.1\Convert Fraction Number to Binary Stack Like(14.56).pdb
+E:\Data_Structure\Another-Problems\Convert Fraction Number to Binary Stack Like(14.56)\obj\Debug\netcoreapp3.1\Convert Fraction Number to Binary Stack Like(14.56).GeneratedMSBuildEditorConfig.editorconfig
+E:\Data_Structure\Another-Problems\Convert Fraction Number to Binary Stack Like(14.56)\obj\Debug\netcoreapp3.1\Convert Fraction Number to Binary Stack Like(14.56).AssemblyInfoInputs.cache
+E:\Data_Structure\Another-Problems\Convert Fraction Number to Binary Stack Like(14.56)\obj\Debug\netcoreapp3.1\Convert Fraction Number to Binary Stack Like(14.56).AssemblyInfo.cs
+E:\Data_Structure\Another-Problems\Convert Fraction Number to Binary Stack Like(14.56)\obj\Debug\netcoreapp3.1\Convert Fraction Number to Binary Stack Like(14.56).csproj.CoreCompileInputs.cache
+E:\Data_Structure\Another-Problems\Convert Fraction Number to Binary Stack Like(14.56)\obj\Debug\netcoreapp3.1\Convert Fraction Number to Binary Stack Like(14.56).dll
+E:\Data_Structure\Another-Problems\Convert Fraction Number to Binary Stack Like(14.56)\obj\Debug\netcoreapp3.1\Convert Fraction Number to Binary Stack Like(14.56).pdb
+E:\Data_Structure\Another-Problems\Convert Fraction Number to Binary Stack Like(14.56)\obj\Debug\netcoreapp3.1\Convert Fraction Number to Binary Stack Like(14.56).genruntimeconfig.cache
