@@ -1,0 +1,14 @@
+E:\Data_Structure\Queue-Problems\Queue using Two Stacks\bin\Debug\netcoreapp3.1\Queue using Two Stacks.exe
+E:\Data_Structure\Queue-Problems\Queue using Two Stacks\bin\Debug\netcoreapp3.1\Queue using Two Stacks.deps.json
+E:\Data_Structure\Queue-Problems\Queue using Two Stacks\bin\Debug\netcoreapp3.1\Queue using Two Stacks.runtimeconfig.json
+E:\Data_Structure\Queue-Problems\Queue using Two Stacks\bin\Debug\netcoreapp3.1\Queue using Two Stacks.runtimeconfig.dev.json
+E:\Data_Structure\Queue-Problems\Queue using Two Stacks\bin\Debug\netcoreapp3.1\Queue using Two Stacks.dll
+E:\Data_Structure\Queue-Problems\Queue using Two Stacks\bin\Debug\netcoreapp3.1\Queue using Two Stacks.pdb
+E:\Data_Structure\Queue-Problems\Queue using Two Stacks\obj\Debug\netcoreapp3.1\Queue using Two Stacks.csproj.AssemblyReference.cache
+E:\Data_Structure\Queue-Problems\Queue using Two Stacks\obj\Debug\netcoreapp3.1\Queue using Two Stacks.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data_Structure\Queue-Problems\Queue using Two Stacks\obj\Debug\netcoreapp3.1\Queue using Two Stacks.AssemblyInfoInputs.cache
+E:\Data_Structure\Queue-Problems\Queue using Two Stacks\obj\Debug\netcoreapp3.1\Queue using Two Stacks.AssemblyInfo.cs
+E:\Data_Structure\Queue-Problems\Queue using Two Stacks\obj\Debug\netcoreapp3.1\Queue using Two Stacks.csproj.CoreCompileInputs.cache
+E:\Data_Structure\Queue-Problems\Queue using Two Stacks\obj\Debug\netcoreapp3.1\Queue using Two Stacks.dll
+E:\Data_Structure\Queue-Problems\Queue using Two Stacks\obj\Debug\netcoreapp3.1\Queue using Two Stacks.pdb
+E:\Data_Structure\Queue-Problems\Queue using Two Stacks\obj\Debug\netcoreapp3.1\Queue using Two Stacks.genruntimeconfig.cache

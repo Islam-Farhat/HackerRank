@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Find Merge Point of Two Lists/1.0.0": {
+        "runtime": {
+          "Find Merge Point of Two Lists.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find Merge Point of Two Lists/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

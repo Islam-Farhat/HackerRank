@@ -1,0 +1,14 @@
+E:\Data_Structure\LinkedList-Problems\Delete Node\bin\Debug\netcoreapp3.1\Delete Node.exe
+E:\Data_Structure\LinkedList-Problems\Delete Node\bin\Debug\netcoreapp3.1\Delete Node.deps.json
+E:\Data_Structure\LinkedList-Problems\Delete Node\bin\Debug\netcoreapp3.1\Delete Node.runtimeconfig.json
+E:\Data_Structure\LinkedList-Problems\Delete Node\bin\Debug\netcoreapp3.1\Delete Node.runtimeconfig.dev.json
+E:\Data_Structure\LinkedList-Problems\Delete Node\bin\Debug\netcoreapp3.1\Delete Node.dll
+E:\Data_Structure\LinkedList-Problems\Delete Node\bin\Debug\netcoreapp3.1\Delete Node.pdb
+E:\Data_Structure\LinkedList-Problems\Delete Node\obj\Debug\netcoreapp3.1\Delete Node.csproj.AssemblyReference.cache
+E:\Data_Structure\LinkedList-Problems\Delete Node\obj\Debug\netcoreapp3.1\Delete Node.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data_Structure\LinkedList-Problems\Delete Node\obj\Debug\netcoreapp3.1\Delete Node.AssemblyInfoInputs.cache
+E:\Data_Structure\LinkedList-Problems\Delete Node\obj\Debug\netcoreapp3.1\Delete Node.AssemblyInfo.cs
+E:\Data_Structure\LinkedList-Problems\Delete Node\obj\Debug\netcoreapp3.1\Delete Node.csproj.CoreCompileInputs.cache
+E:\Data_Structure\LinkedList-Problems\Delete Node\obj\Debug\netcoreapp3.1\Delete Node.dll
+E:\Data_Structure\LinkedList-Problems\Delete Node\obj\Debug\netcoreapp3.1\Delete Node.pdb
+E:\Data_Structure\LinkedList-Problems\Delete Node\obj\Debug\netcoreapp3.1\Delete Node.genruntimeconfig.cache

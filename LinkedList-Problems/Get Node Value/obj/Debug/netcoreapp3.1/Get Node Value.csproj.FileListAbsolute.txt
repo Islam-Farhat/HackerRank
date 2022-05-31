@@ -1,0 +1,13 @@
+E:\Data_Structure\LinkedList-Problems\Get Node Value\bin\Debug\netcoreapp3.1\Get Node Value.exe
+E:\Data_Structure\LinkedList-Problems\Get Node Value\bin\Debug\netcoreapp3.1\Get Node Value.deps.json
+E:\Data_Structure\LinkedList-Problems\Get Node Value\bin\Debug\netcoreapp3.1\Get Node Value.runtimeconfig.json
+E:\Data_Structure\LinkedList-Problems\Get Node Value\bin\Debug\netcoreapp3.1\Get Node Value.runtimeconfig.dev.json
+E:\Data_Structure\LinkedList-Problems\Get Node Value\bin\Debug\netcoreapp3.1\Get Node Value.dll
+E:\Data_Structure\LinkedList-Problems\Get Node Value\bin\Debug\netcoreapp3.1\Get Node Value.pdb
+E:\Data_Structure\LinkedList-Problems\Get Node Value\obj\Debug\netcoreapp3.1\Get Node Value.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data_Structure\LinkedList-Problems\Get Node Value\obj\Debug\netcoreapp3.1\Get Node Value.AssemblyInfoInputs.cache
+E:\Data_Structure\LinkedList-Problems\Get Node Value\obj\Debug\netcoreapp3.1\Get Node Value.AssemblyInfo.cs
+E:\Data_Structure\LinkedList-Problems\Get Node Value\obj\Debug\netcoreapp3.1\Get Node Value.csproj.CoreCompileInputs.cache
+E:\Data_Structure\LinkedList-Problems\Get Node Value\obj\Debug\netcoreapp3.1\Get Node Value.dll
+E:\Data_Structure\LinkedList-Problems\Get Node Value\obj\Debug\netcoreapp3.1\Get Node Value.pdb
+E:\Data_Structure\LinkedList-Problems\Get Node Value\obj\Debug\netcoreapp3.1\Get Node Value.genruntimeconfig.cache

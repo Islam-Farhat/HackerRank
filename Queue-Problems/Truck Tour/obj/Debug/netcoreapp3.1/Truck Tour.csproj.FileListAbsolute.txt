@@ -1,0 +1,14 @@
+E:\Data_Structure\Queue-Problems\Truck Tour\bin\Debug\netcoreapp3.1\Truck Tour.exe
+E:\Data_Structure\Queue-Problems\Truck Tour\bin\Debug\netcoreapp3.1\Truck Tour.deps.json
+E:\Data_Structure\Queue-Problems\Truck Tour\bin\Debug\netcoreapp3.1\Truck Tour.runtimeconfig.json
+E:\Data_Structure\Queue-Problems\Truck Tour\bin\Debug\netcoreapp3.1\Truck Tour.runtimeconfig.dev.json
+E:\Data_Structure\Queue-Problems\Truck Tour\bin\Debug\netcoreapp3.1\Truck Tour.dll
+E:\Data_Structure\Queue-Problems\Truck Tour\bin\Debug\netcoreapp3.1\Truck Tour.pdb
+E:\Data_Structure\Queue-Problems\Truck Tour\obj\Debug\netcoreapp3.1\Truck Tour.csproj.AssemblyReference.cache
+E:\Data_Structure\Queue-Problems\Truck Tour\obj\Debug\netcoreapp3.1\Truck Tour.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data_Structure\Queue-Problems\Truck Tour\obj\Debug\netcoreapp3.1\Truck Tour.AssemblyInfoInputs.cache
+E:\Data_Structure\Queue-Problems\Truck Tour\obj\Debug\netcoreapp3.1\Truck Tour.AssemblyInfo.cs
+E:\Data_Structure\Queue-Problems\Truck Tour\obj\Debug\netcoreapp3.1\Truck Tour.csproj.CoreCompileInputs.cache
+E:\Data_Structure\Queue-Problems\Truck Tour\obj\Debug\netcoreapp3.1\Truck Tour.dll
+E:\Data_Structure\Queue-Problems\Truck Tour\obj\Debug\netcoreapp3.1\Truck Tour.pdb
+E:\Data_Structure\Queue-Problems\Truck Tour\obj\Debug\netcoreapp3.1\Truck Tour.genruntimeconfig.cache

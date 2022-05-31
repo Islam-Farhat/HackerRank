@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Castle on the Grid/1.0.0": {
+        "runtime": {
+          "Castle on the Grid.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Castle on the Grid/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

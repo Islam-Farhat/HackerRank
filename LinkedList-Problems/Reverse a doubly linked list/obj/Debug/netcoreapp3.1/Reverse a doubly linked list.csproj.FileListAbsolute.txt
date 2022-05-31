@@ -1,0 +1,14 @@
+E:\Data_Structure\LinkedList-Problems\Reverse a doubly linked list\bin\Debug\netcoreapp3.1\Reverse a doubly linked list.exe
+E:\Data_Structure\LinkedList-Problems\Reverse a doubly linked list\bin\Debug\netcoreapp3.1\Reverse a doubly linked list.deps.json
+E:\Data_Structure\LinkedList-Problems\Reverse a doubly linked list\bin\Debug\netcoreapp3.1\Reverse a doubly linked list.runtimeconfig.json
+E:\Data_Structure\LinkedList-Problems\Reverse a doubly linked list\bin\Debug\netcoreapp3.1\Reverse a doubly linked list.runtimeconfig.dev.json
+E:\Data_Structure\LinkedList-Problems\Reverse a doubly linked list\bin\Debug\netcoreapp3.1\Reverse a doubly linked list.dll
+E:\Data_Structure\LinkedList-Problems\Reverse a doubly linked list\bin\Debug\netcoreapp3.1\Reverse a doubly linked list.pdb
+E:\Data_Structure\LinkedList-Problems\Reverse a doubly linked list\obj\Debug\netcoreapp3.1\Reverse a doubly linked list.csproj.AssemblyReference.cache
+E:\Data_Structure\LinkedList-Problems\Reverse a doubly linked list\obj\Debug\netcoreapp3.1\Reverse a doubly linked list.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data_Structure\LinkedList-Problems\Reverse a doubly linked list\obj\Debug\netcoreapp3.1\Reverse a doubly linked list.AssemblyInfoInputs.cache
+E:\Data_Structure\LinkedList-Problems\Reverse a doubly linked list\obj\Debug\netcoreapp3.1\Reverse a doubly linked list.AssemblyInfo.cs
+E:\Data_Structure\LinkedList-Problems\Reverse a doubly linked list\obj\Debug\netcoreapp3.1\Reverse a doubly linked list.csproj.CoreCompileInputs.cache
+E:\Data_Structure\LinkedList-Problems\Reverse a doubly linked list\obj\Debug\netcoreapp3.1\Reverse a doubly linked list.dll
+E:\Data_Structure\LinkedList-Problems\Reverse a doubly linked list\obj\Debug\netcoreapp3.1\Reverse a doubly linked list.pdb
+E:\Data_Structure\LinkedList-Problems\Reverse a doubly linked list\obj\Debug\netcoreapp3.1\Reverse a doubly linked list.genruntimeconfig.cache

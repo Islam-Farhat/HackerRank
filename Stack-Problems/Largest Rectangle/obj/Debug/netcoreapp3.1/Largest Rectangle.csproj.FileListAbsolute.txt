@@ -1,0 +1,14 @@
+E:\Data_Structure\Stack-Problems\Largest Rectangle\bin\Debug\netcoreapp3.1\Largest Rectangle.exe
+E:\Data_Structure\Stack-Problems\Largest Rectangle\bin\Debug\netcoreapp3.1\Largest Rectangle.deps.json
+E:\Data_Structure\Stack-Problems\Largest Rectangle\bin\Debug\netcoreapp3.1\Largest Rectangle.runtimeconfig.json
+E:\Data_Structure\Stack-Problems\Largest Rectangle\bin\Debug\netcoreapp3.1\Largest Rectangle.runtimeconfig.dev.json
+E:\Data_Structure\Stack-Problems\Largest Rectangle\bin\Debug\netcoreapp3.1\Largest Rectangle.dll
+E:\Data_Structure\Stack-Problems\Largest Rectangle\bin\Debug\netcoreapp3.1\Largest Rectangle.pdb
+E:\Data_Structure\Stack-Problems\Largest Rectangle\obj\Debug\netcoreapp3.1\Largest Rectangle.csproj.AssemblyReference.cache
+E:\Data_Structure\Stack-Problems\Largest Rectangle\obj\Debug\netcoreapp3.1\Largest Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data_Structure\Stack-Problems\Largest Rectangle\obj\Debug\netcoreapp3.1\Largest Rectangle.AssemblyInfoInputs.cache
+E:\Data_Structure\Stack-Problems\Largest Rectangle\obj\Debug\netcoreapp3.1\Largest Rectangle.AssemblyInfo.cs
+E:\Data_Structure\Stack-Problems\Largest Rectangle\obj\Debug\netcoreapp3.1\Largest Rectangle.csproj.CoreCompileInputs.cache
+E:\Data_Structure\Stack-Problems\Largest Rectangle\obj\Debug\netcoreapp3.1\Largest Rectangle.dll
+E:\Data_Structure\Stack-Problems\Largest Rectangle\obj\Debug\netcoreapp3.1\Largest Rectangle.pdb
+E:\Data_Structure\Stack-Problems\Largest Rectangle\obj\Debug\netcoreapp3.1\Largest Rectangle.genruntimeconfig.cache

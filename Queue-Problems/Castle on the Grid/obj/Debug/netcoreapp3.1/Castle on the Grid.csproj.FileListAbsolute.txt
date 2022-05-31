@@ -1,0 +1,14 @@
+E:\Data_Structure\Queue-Problems\Castle on the Grid\bin\Debug\netcoreapp3.1\Castle on the Grid.exe
+E:\Data_Structure\Queue-Problems\Castle on the Grid\bin\Debug\netcoreapp3.1\Castle on the Grid.deps.json
+E:\Data_Structure\Queue-Problems\Castle on the Grid\bin\Debug\netcoreapp3.1\Castle on the Grid.runtimeconfig.json
+E:\Data_Structure\Queue-Problems\Castle on the Grid\bin\Debug\netcoreapp3.1\Castle on the Grid.runtimeconfig.dev.json
+E:\Data_Structure\Queue-Problems\Castle on the Grid\bin\Debug\netcoreapp3.1\Castle on the Grid.dll
+E:\Data_Structure\Queue-Problems\Castle on the Grid\bin\Debug\netcoreapp3.1\Castle on the Grid.pdb
+E:\Data_Structure\Queue-Problems\Castle on the Grid\obj\Debug\netcoreapp3.1\Castle on the Grid.csproj.AssemblyReference.cache
+E:\Data_Structure\Queue-Problems\Castle on the Grid\obj\Debug\netcoreapp3.1\Castle on the Grid.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data_Structure\Queue-Problems\Castle on the Grid\obj\Debug\netcoreapp3.1\Castle on the Grid.AssemblyInfoInputs.cache
+E:\Data_Structure\Queue-Problems\Castle on the Grid\obj\Debug\netcoreapp3.1\Castle on the Grid.AssemblyInfo.cs
+E:\Data_Structure\Queue-Problems\Castle on the Grid\obj\Debug\netcoreapp3.1\Castle on the Grid.csproj.CoreCompileInputs.cache
+E:\Data_Structure\Queue-Problems\Castle on the Grid\obj\Debug\netcoreapp3.1\Castle on the Grid.dll
+E:\Data_Structure\Queue-Problems\Castle on the Grid\obj\Debug\netcoreapp3.1\Castle on the Grid.pdb
+E:\Data_Structure\Queue-Problems\Castle on the Grid\obj\Debug\netcoreapp3.1\Castle on the Grid.genruntimeconfig.cache

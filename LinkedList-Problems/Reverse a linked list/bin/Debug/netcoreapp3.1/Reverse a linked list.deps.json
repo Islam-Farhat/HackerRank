@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Reverse a linked list/1.0.0": {
+        "runtime": {
+          "Reverse a linked list.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reverse a linked list/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
